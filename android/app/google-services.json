@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "730853111991",
+    "project_id": "raddittutorial",
+    "storage_bucket": "raddittutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730853111991:android:d648206e89f27777a27532",
+        "android_client_info": {
+          "package_name": "com.example.raddit_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730853111991-rctffmq3r0h65dcb5krr6rrs67oc7ptj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raddit_tutorial",
+            "certificate_hash": "58efa97a4d62cd1bcfeca0dc938d331da9950126"
+          }
+        },
+        {
+          "client_id": "730853111991-a6sfaq6ij78vs88t321qr70it0nlp7g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBOPTwFR8IUBYa_Ofxzp20TKnmjOaKLVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730853111991-a6sfaq6ij78vs88t321qr70it0nlp7g5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730853111991-2aaoj4cj5r5voch8n8o4ifmia6qnfu0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.radditTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
