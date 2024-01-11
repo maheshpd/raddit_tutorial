@@ -3,5 +3,4 @@ class Failure {
   Failure(
      this.message,
   );
-  
 }
